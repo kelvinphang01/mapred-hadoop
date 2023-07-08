@@ -1,5 +1,7 @@
 # mapred-hadoop
 
+**Assignment for IST3134**
+
 Unzip `timeline.zip` to get `timeline.json`.
 
 Then, upload `timeline.json` to Hadoop: `hadoop fs -put timeline.json /path`
